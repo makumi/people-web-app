@@ -141,7 +141,7 @@ class NewPerson extends Component {
                                 htmlType="submit"
                                 size="large"
                                 disabled={this.isFormInvalid()}
-                                className="create-poll-form-button">Create Person</Button>
+                                className="create-poll-form-button">Create Employee</Button>
                         </FormItem>
                     </Form>
                 </div>
